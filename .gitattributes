@@ -1,1 +1,2 @@
 *.whl filter=lfs diff=lfs merge=lfs -text
+tensorflow-wheel/ filter=lfs diff=lfs merge=lfs -text
